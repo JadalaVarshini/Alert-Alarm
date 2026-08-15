@@ -112,7 +112,7 @@ Offline emergency SMS fallback system
 ## Features
 - Emergency alert system
 - Emergency contact management
-- Location-based assistance
+- Location-based assistance.
 
 
 
